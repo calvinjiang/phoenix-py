@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: phoenix-py
+Version: 1.0.4.dev1
+Summary: A phoenix hbase client python project
+Home-page: https://github.com/calvinjiang/phoenix-py
+Author: Calvin Jiang
+Author-email: jianghuachinacom@163.com
+License: MIT
+Description: UNKNOWN
+Keywords: phoenix client python
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

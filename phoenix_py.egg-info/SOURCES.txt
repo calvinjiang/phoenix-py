@@ -1,0 +1,12 @@
+README.rst
+setup.cfg
+setup.py
+phoenix/__init__.py
+phoenix/avatica.py
+phoenix/client.py
+phoenix/errors.py
+phoenix_py.egg-info/PKG-INFO
+phoenix_py.egg-info/SOURCES.txt
+phoenix_py.egg-info/dependency_links.txt
+phoenix_py.egg-info/requires.txt
+phoenix_py.egg-info/top_level.txt
